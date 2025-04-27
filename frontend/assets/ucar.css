@@ -1,0 +1,130 @@
+/* header */
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 33px 15px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23px;
+  color: #000;
+}
+
+.col-sm-* {
+  text-align: left;
+}
+
+.navbar-collapse {
+  float: left;
+  padding-right: 20px;
+  padding-left: 15px;
+}
+
+.top-bar {
+  background: #eee !important;
+  float: right !important;
+  border-top: 1px solid #eee;
+  border-bottom: 0.0625rem solid #eee;
+}
+
+.panel-footer {
+  padding: 10px 15px;
+  background-color: #323133;
+  border-top: 1px solid #ddd;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  font-size: 1rem;
+  line-height: 2.25rem;
+}
+
+.legal-footer {
+  padding: 10px 15px;
+  background-color: #252525;
+  border-top: 1px solid #ddd;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  color: #bbbcbc;
+}
+
+.container-fluid.footer {
+  padding: 10px 15px;
+  background-color: #ecebe8;
+  border-top: 1px solid #ddd;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.nsf-footer .address {
+  list-style-type: none;
+  float: left;
+  text-align: left;
+  margin-top: 0.5em;
+}
+
+.list-horizontal li {
+  display: inline-block;
+}
+
+body {
+  font-family: "Poppins";
+}
+
+.slogan {
+  position: relative;
+  left: 0px;
+  color: #1a658f;
+}
+
+h3 {
+  color: #007cad;
+}
+
+h2 {
+  color: #007cad;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
+}
+
+h1,
+.h1,
+h4,
+.h4,
+h2,
+.h2,
+h3,
+.h3 {
+  font-family: "Poppins", sans-serif;
+}
+
+.mb-0 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+.footer-social-icon {
+  font-size: 32px;
+  height: 42px;
+  width: 42px;
+  line-height: 42px;
+  vertical-align: middle;
+  margin: 0.25rem;
+}
+
+.panel-footer a,
+.panel-footer a:link,
+.panel-footer a:visited,
+.panel-footer a:active,
+.panel-footer a:hover {
+  color: #c3d7ee;
+}
+
+.legal-footer a,
+.legal-footer a:link,
+.legal-footer a:visited,
+.legal-footer a:active,
+.legal-footer a:hover {
+  color: #c3d7ee;
+}
+
+#main-content.objects .badge-and-identifier {
+  display: none;
+}
